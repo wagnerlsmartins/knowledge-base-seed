@@ -35,15 +35,31 @@ Uma KB versionada em Markdown pede pouco. Esta é a lista do essencial ao opcion
 - **Separe memória de ação.** O que precisa de responsável e prazo vive no gestor de tarefas.
   O que é conhecimento durável vive aqui. Não confunda os dois.
 
-## Setup mínimo (copiar e colar)
+## Dois caminhos: escolha o seu
+
+Você **não precisa de terminal** para ter uma KB. Escolha pelo seu conforto.
+
+### Caminho A — sem terminal (recomendado para começar)
+
+Só uma conta no GitHub e um navegador.
+
+1. abra esta semente no GitHub e clique em **"Use this template" → "Create a new repository"**;
+2. edite os arquivos pelo próprio site (botão do **lápis** → **Commit changes**);
+3. (opcional) instale o **GitHub Desktop** se quiser editar no seu computador sem comandos.
+
+É por aqui que a [primeira KB em 15 minutos](04_primeira-kb-em-15-min.md) acontece.
+
+### Caminho B — terminal (para quem já é fluente)
 
 ```bash
-# 1. instale o git e o gh (macOS, via Homebrew)
-brew install git gh
+brew install git gh        # macOS, via Homebrew
 gh auth login
-
-# 2. clone esta semente como base da sua KB (veja o próximo guia)
 gh repo create minha-kb --private --template wagnerlsmartins/knowledge-base-seed
 ```
 
-Siga para **[como instanciar](03_como-instanciar.md)**.
+---
+
+Não entendeu algum termo desta página? Veja o
+[glossário rápido](00_glossario-rapido.md). Depois siga para
+**[sua primeira KB em 15 minutos](04_primeira-kb-em-15-min.md)** ou, se quiser planejar antes,
+**[as perguntas fundamentais](01_perguntas-fundamentais.md)**.

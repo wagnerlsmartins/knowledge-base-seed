@@ -1,6 +1,10 @@
 # Como contribuir
 
-Toda mudança é feita por **Pull Request**. Nada de commit direto no `main`.
+> **Está sozinho na sua KB?** Pode editar direto (pelo navegador, botão do lápis → Commit). O
+> fluxo de Pull Request abaixo é para quando **mais de uma pessoa ou agente** colabora na
+> mesma base — aí ele evita atropelo e dá revisão. Não precisa dele no seu primeiro material.
+
+Em colaboração, toda mudança é feita por **Pull Request**. Nada de commit direto no `main`.
 
 **Regra de ouro:** uma sessão = uma branch = uma PR, sempre saindo do `main` atualizado. Isso
 evita branches empilhadas e conflitos. Se precisa só do fluxo de Git, veja o

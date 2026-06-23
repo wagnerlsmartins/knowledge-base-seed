@@ -11,8 +11,12 @@ related:
 
 # Como instanciar
 
-"Cloei a semente, e agora?" Siga estes passos. No fim você tem uma KB sua, sem rastro de
+"Clonei a semente, e agora?" Siga estes passos. No fim você tem uma KB sua, sem rastro de
 template.
+
+> **Quer um atalho?** Se é seu primeiro material, faça antes a
+> [primeira KB em 15 minutos](04_primeira-kb-em-15-min.md) — ela cobre os passos 1 a 4 sem
+> terminal. Volte aqui quando quiser o processo completo.
 
 ## Passo a passo
 

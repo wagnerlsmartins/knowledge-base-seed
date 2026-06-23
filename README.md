@@ -18,11 +18,14 @@ acumular conhecimento de forma durável e portátil.
 
 ## Por onde começar
 
-Leia, nesta ordem, a pasta **[docs/00-comece-aqui](docs/00-comece-aqui/)**:
+**Com pressa / não é dev?** Vá direto para **[Sua primeira KB em 15 minutos](docs/00-comece-aqui/04_primeira-kb-em-15-min.md)** (tudo pelo navegador, sem terminal) e olhe o **[exemplo preenchido](exemplos/marca-pessoal/00_mapa.md)**.
 
-1. **[As perguntas fundamentais](docs/00-comece-aqui/01_perguntas-fundamentais.md)** — 8 perguntas que definem a sua KB antes de escrever qualquer linha.
-2. **[Ferramentas](docs/00-comece-aqui/02_ferramentas.md)** — o que instalar e por quê.
-3. **[Como instanciar](docs/00-comece-aqui/03_como-instanciar.md)** — passo a passo para transformar esta semente na *sua* KB.
+**Quer entender tudo?** Leia a pasta **[docs/00-comece-aqui](docs/00-comece-aqui/)** nesta ordem:
+
+1. **[Glossário rápido](docs/00-comece-aqui/00_glossario-rapido.md)** — os termos técnicos traduzidos.
+2. **[As perguntas fundamentais](docs/00-comece-aqui/01_perguntas-fundamentais.md)** — 8 perguntas que definem a sua KB.
+3. **[Ferramentas](docs/00-comece-aqui/02_ferramentas.md)** — o que usar (com e sem terminal).
+4. **[Como instanciar](docs/00-comece-aqui/03_como-instanciar.md)** — passo a passo completo.
 
 Se você é um **agente** (Claude, Codex, etc.), comece por **[AGENTS.md](AGENTS.md)**.
 
@@ -34,6 +37,7 @@ docs/
   01-base/          fundação: mapa, tese, léxico, entidades
   02-conteudo/      o conhecimento do seu objeto (você cria as seções)
   09-operacao/      governança da própria base: schema, camadas, ingestão
+exemplos/           uma KB de exemplo, preenchida, para imitar
 views/              trilhas de leitura por público (≠ estrutura de pastas)
 type/               tipos de nota como lente de navegação
 projeto/            "SO de projeto": inbox → nota → decisão → backlog → log → handoff (opcional)
