@@ -56,7 +56,8 @@ template.
 
 9. **Apague esta pasta.**
    Quando terminar o onboarding, **delete `docs/00-comece-aqui/`** — ela é andaime do
-   template, não conteúdo da sua KB. Atualize o `README.md` para falar da *sua* base.
+   template, não conteúdo da sua KB. Atualize o `README.md` para falar da *sua* base e apague a
+   vitrine da semente (`.github/assets/` e `.github/ISSUE_TEMPLATE/feedback.md`).
 
 ## Checklist final
 
@@ -69,4 +70,4 @@ template.
 - [ ] `AGENTS.md` ajustado ou simplificado
 - [ ] `views/` com pelo menos uma trilha
 - [ ] `docs/00-comece-aqui/` apagada
-- [ ] `README.md` reescrito para a minha KB
+- [ ] `README.md` reescrito para a minha KB (e vitrine da semente apagada)
