@@ -103,6 +103,12 @@ acumula, protocolos que executam e infraestrutura pública que permanece.
 A semente é a primeira solução educacional da **Playloops**, a editora de protocolos
 operacionais para humanos e agentes da W/M Inc. *Loops são o novo prompt.*
 
+## Licença
+
+[CC BY 4.0](LICENSE). Use, adapte e redistribua à vontade, inclusive para fins comerciais,
+desde que dê o crédito: *Knowledge Base Seed, por Wagner Martins (W/M Inc.)*, com link para
+este repositório.
+
 > [!TIP]
 > Criou a sua KB a partir deste template? Reescreva este README para falar da *sua* base e
 > apague `.github/assets/` e `.github/ISSUE_TEMPLATE/feedback.md`. Eles são a vitrine da
